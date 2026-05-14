@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Platform-GNS3-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/OS-Debian%2012-red" alt="OS">
+  <img src="https://img.shields.io/badge/Gateway%20%26%20Server-Debian%2012-red" alt="Gateway and Server OS">
+  <img src="https://img.shields.io/badge/Client-Kali%20Linux-blueviolet" alt="Client OS">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue" alt="License">
 </p>
 
